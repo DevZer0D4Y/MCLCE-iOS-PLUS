@@ -1,10 +1,5 @@
 # MCLCE-iOS
 
-[![iOS build](https://github.com/dtentiion/MCLCE-iOS/actions/workflows/ios.yml/badge.svg)](https://github.com/dtentiion/MCLCE-iOS/actions/workflows/ios.yml)
-[![Visits](https://hits.sh/github.com/dtentiion/MCLCE-iOS.svg?label=visits&color=6cc644)](https://hits.sh/github.com/dtentiion/MCLCE-iOS/)
-[![Downloads](https://img.shields.io/github/downloads/dtentiion/MCLCE-iOS/total?color=6cc644&label=downloads)](https://github.com/dtentiion/MCLCE-iOS/releases)
-[![Stars](https://img.shields.io/github/stars/dtentiion/MCLCE-iOS?color=6cc644)](https://github.com/dtentiion/MCLCE-iOS/stargazers)
-
 Native iOS port of TU19 Legacy Console Edition. **Code only - no Minecraft game assets are included in or distributed with this repo. Users must supply their own.**
 
 ## Distribution variants
