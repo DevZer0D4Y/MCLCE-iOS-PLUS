@@ -39,19 +39,15 @@ Under the hood:
 - **Graphics:** wgpu via Ruffle, which routes through MetalANGLE on iOS.
 - **Controller:** Apple's GameController framework, translated to the Xbox-360-style bitmask the game's 4J input layer already expects.
 
-## Installing
-
-See [INSTALL.md](INSTALL.md).
-
-## Roadmap
-
-See [ROADMAP.md](ROADMAP.md) and [STATUS.md](STATUS.md) for where things actually stand.
-
 ## Contributing
 
-If you know iOS, Metal, GL ES, or anything about LCE's Flash UI internals, help is very welcome. Open an issue before starting anything big so we don't duplicate work.
+If you want to support me and remain up-to-date about this and other projects, you can in different ways:
 
-For general LCE porting conventions: parity-first with the TU19 Legacy Console Edition codebase, small focused commits, and no game assets in the repo.
+Ko-Fi: https://ko-fi.com/dev_zer0
+
+Discord: https://discord.gg/uFChheZEWX
+
+YouTube: https://www.youtube.com/@develop_erZ
 
 ## Legal
 
