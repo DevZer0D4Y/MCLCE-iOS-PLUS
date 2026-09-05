@@ -1,13 +1,13 @@
 # MCLCE for iOS (PLUS)
 
-Native iOS port of TU19 Legacy Console Edition. **Code only - no Minecraft game assets are included in or distributed with this repo. Users must supply their own.**
+Native iOS port of TU19 Legacy Console Edition. **Code only - no Minecraft game assets are included in or distributed with this repo. Users must supply their own.** If you want, you can put your files for the TU19 LCE or, like I am doing, trying with what I call "modded instances" such as NeoLegacy, 360 Revived, ecc...
 
 ## Distribution variants
 
 This repo ports the TU19 Legacy Console Edition base. No game assets ship in this repo; users must supply their own. If you want a different LCE flavour, look for a sibling iOS repo:
 
-- **MCLCE-iOS** (this one): TU19 base, the canonical LCE codebase.
-- **NeoLegacy-iOS** (planned): community NeoLegacy fork once that branch is cut.
+- **360 Revived** (this one im trying to build first): TU12 for Minecraft Xbox 360 Edition.
+- **NeoLegacy**: aims to backport the newer title updates back to Legacy Console Edition.
 - Other variants land as their upstream trees stabilise.
 
 Pick the repo that matches the LCE flavour you want, grab the `.ipa` from its Actions tab, sideload it.
