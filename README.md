@@ -7,10 +7,6 @@
 
 Native iOS port of TU19 Legacy Console Edition. **Code only - no Minecraft game assets are included in or distributed with this repo. Users must supply their own.**
 
-**Status: menus working, gameplay code linked into the .ipa, simulation hook ticking on device.** The app launches to the real LCE main menu with the panorama, logo, music, and controller navigation all working. The full Help & Options / Settings tree walks. Underneath, the upstream gameplay simulation library (Entity, Level, LevelChunk, Player, Tile, TileEntity, Mob, LivingEntity, ItemInstance, Container, ServerLevel, PlayerList, MultiPlayerLevel and ~840 supporting files) is now linked into the binary. A bootstrap entry point fires from the render loop on launch and ticks once per frame, confirmed via live device log. The next phase constructs a real `Minecraft` instance and drives the tick against a loaded save. See [STATUS.md](STATUS.md) for the full breakdown.
-
-CI builds an `.ipa` on every push. Grab the latest from the [Actions tab](https://github.com/dtentiion/MCLCE-iOS/actions).
-
 ## Distribution variants
 
 This repo ports the TU19 Legacy Console Edition base. No game assets ship in this repo; users must supply their own. If you want a different LCE flavour, look for a sibling iOS repo:
