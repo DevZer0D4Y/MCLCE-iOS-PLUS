@@ -1,4 +1,4 @@
-# MCLCE-iOS
+# MCLCE for iOS (PLUS)
 
 Native iOS port of TU19 Legacy Console Edition. **Code only - no Minecraft game assets are included in or distributed with this repo. Users must supply their own.**
 
